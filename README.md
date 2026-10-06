@@ -3,7 +3,7 @@
 # Hi, I'm Kathryn 👋
 
 **Software engineer who likes sitting between the product and the people using it.**
-Northwestern CS · ex-intern at Amazon (AWS), NVIDIA and AMD
+Northwestern CS · SDE @ Amazon (AWS), ex-intern SDE @ NVIDIA and AMD
 
 </div>
 
@@ -11,11 +11,11 @@ Northwestern CS · ex-intern at Amazon (AWS), NVIDIA and AMD
 
 ### 💼 Experience
 
-Software development engineering internships at **Amazon Web Services**, **NVIDIA** and **AMD**, working on cloud services and developer-facing systems. What I enjoy most is the part where engineering meets customers: figuring out what people actually need, shaping it into something buildable, and then shipping it.
+Software development engineering at **Amazon Web Services**, **NVIDIA** and **AMD**, working on cloud services and developer-facing systems. What I enjoy most is the part where engineering meets customers: figuring out what people actually need, shaping it into something buildable, and then shipping it.
 
 ### 🎯 Looking for
 
-**Product, Solutions or Sales Engineer** roles, where technical depth and talking to customers both matter. Open to full-time opportunities.
+**Product, Solutions or Sales Engineer** roles, where technical depth and talking to customers both matter. Looking for Full-time opportunities.
 
 ### 🛠 Toolbox
 
