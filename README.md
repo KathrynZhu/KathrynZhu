@@ -2,39 +2,39 @@
 
 # Hi, I'm Kathryn 👋
 
-**I build small, opinionated apps for things I actually do.**
-Dancer · iOS builder · currently building in public
+**Software engineer who likes sitting between the product and the people using it.**
+Northwestern CS · ex-intern at Amazon (AWS), NVIDIA and AMD
 
 </div>
 
 ---
 
-### 🎧 What I'm building right now
+### 💼 Experience
 
-**DanceBeat** — a daily companion for dancers. Log practice sessions, learn choreography from video with A/B loops, mirror and speed control, and let the app count the beats for you.
-Built with React Native / Expo on iOS, with a Python beat-counting engine behind it. Shipping a first TestFlight build to friends soon.
+Software development engineering internships at **Amazon Web Services**, **NVIDIA** and **AMD**, working on cloud services and developer-facing systems. What I enjoy most is the part where engineering meets customers: figuring out what people actually need, shaping it into something buildable, and then shipping it.
 
-**Focus App** — an iOS app that gets you off your phone at night. Distracting apps are shielded at bedtime, and the only way to unlock them is to get out of bed and scan an NFC tag outside the bedroom. Physical friction beats willpower.
+### 🎯 Looking for
 
-I share progress, design decisions and the messy middle on social, not the source. Code stays private; the process is public.
+**Product, Solutions or Sales Engineer** roles, where technical depth and talking to customers both matter. Open to full-time opportunities.
 
-### 🧰 Earlier work
+### 🛠 Toolbox
 
-- **AutoPod** — an AI podcast generator: describe a topic, pick speakers, get a script and a finished audio file.
-- **Autograder** — a homework autograding web app with an AWS backend.
-- **Synaxis** — an RSVP system for churches, built with a Scrum team at Harvard Summer School.
+`AWS` `TypeScript` `Python` `Java` `MySQL` `React Native` `Swift`
 
-### 🛠 What I reach for
+### 🎧 For fun
 
-`Swift` `React Native` `TypeScript` `Python` `PyTorch` `AWS`
+I build small, opinionated apps for things I actually do, and share the process in public.
 
-### 🌱 Follow the build
+- **DanceBeat** — a daily companion for dancers: log practice, learn choreography from video with loops, mirror and speed control, and let the app count the beats. React Native / Expo on iOS with a Python beat-counting engine. First TestFlight build coming soon.
+- **Focus App** — an iOS app that gets you off your phone at night. Distracting apps are shielded at bedtime, and the only way to unlock them is to get out of bed and scan an NFC tag outside the bedroom.
 
-<!-- Replace the links below with your real handles -->
-Instagram · Reddit · 小红书 · 抖音
+<!-- Replace with your real handles -->
+Follow the build: Instagram · Reddit · 小红书 · 抖音
 
-Reach me at zhouyaozhu@outlook.com
+### 📫 Contact
+
+zhouyaozhu@outlook.com
 
 <div align="center">
-<sub>Northwestern CS · interested in dance, Rubik's cubes and tools that change habits</sub>
+<sub>Off the keyboard: dance, Rubik's cubes, and tools that change habits</sub>
 </div>
